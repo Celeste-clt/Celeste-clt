@@ -1,4 +1,4 @@
-** 👋Bonjour,
+👋Bonjour,
 Je m'appelle [Celeste](https://github.com/Celeste-clt)
 
 
